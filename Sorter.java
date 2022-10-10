@@ -9,7 +9,9 @@ public class Sorter {
                 i--;
             }
             array[i+1] = key;
-        }
+        }}
+
+
 
     public static void main(String[] args) {
 
